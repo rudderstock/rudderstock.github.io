@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Pages on 木德东</title><link>https://rudderstock.github.io/pages/</link><description>Recent content in Pages on 木德东</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rudderstock.github.io/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>react-vue-tsx 基本使用</title><link>https://rudderstock.github.io/pages/react-vue-tsx-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</link><pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate><guid>https://rudderstock.github.io/pages/react-vue-tsx-%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</guid><description>tags:: vue, react
+本文主要面向 react 开发人员快速上手 vue 的 .tsx 组件开发
+Tsx 在 vue 项目中，如果不太熟悉、不想使用 vue 模板语法的开发方式，可以通过 vite 相关插件，使用 tsx 进行组件编写
+优点：
+可以使用更加灵活的 jsx 来进行开发 logseq.order-list-type:: number
+可以单个文件里可以输出多个小组件 logseq.order-list-type:: number
+更加灵活的js配置，不需要忍受 .vue 模版里的的魔法配置 logseq.order-list-type:: number
+减少 all in one（页面组件代码 4000 + 行） 概率，文件内可以各种变量导出，重复内容也可以很方便的进行管理 logseq.order-list-type:: number
+使用 model.confirm 等函数方式调用组件，可以很方便的个性化自定义标签，不需要频繁塞进 template 里，再声明 ref 来进行各种控制 logseq.order-list-type:: number
+缺点：
+无法使用 css scope，可以使用 css-modules 或者其他方式来进行样式隔离，习惯了 :deep 等方式的开发人员可能会不太适应 logseq.order-list-type:: number
+其他成员难维护，未接触过 react 框架的 vue 开发人员，大概率无法接受和学习开发，需要靠你自己维护或者培训他们 logseq.order-list-type:: number</description></item></channel></rss>
